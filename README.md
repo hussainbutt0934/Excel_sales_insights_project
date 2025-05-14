@@ -1,5 +1,7 @@
 # Excel_sales_insights_project
 To analyze and visualize customer order data using Microsoft Excel, focusing on extracting key insights around sales trends, customer demographics, and regional performance for strategic decision-making.
+## Dataset Used
+<a href="https://github.com/hussainbutt0934/Excel_sales_insights_project/blob/main/virinda%20insights%20project.xlsx"> Dataset </a>
 ## Sample Questions
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
@@ -19,6 +21,11 @@ To analyze and visualize customer order data using Microsoft Excel, focusing on 
    # Final conclusion to improve virinda stores sales
    Target womwn customers of age (30-49 yrs) living in maharashtara,
    karnataka, and utar pradesh by showing ads offers coupons available on Amazon, Filp cart and Myntra
+
+## Dashbaord
+![Screenshot (7)](https://github.com/user-attachments/assets/c06f79bc-3552-46d6-bdb3-a5e2dce1aa90)
+
+   
  
   
 
