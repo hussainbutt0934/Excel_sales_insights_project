@@ -3,14 +3,13 @@ To analyze and visualize customer order data using Microsoft Excel, focusing on 
 ## Dataset Used
 <a href="https://github.com/hussainbutt0934/Excel_sales_insights_project/blob/main/virinda%20insights%20project.xlsx"> Dataset </a>
 ## Sample Questions
-- Compare the sales and orders using single chart.
-- Which month got the highest sales and orders?
-- Who purchased more - men or women in 2022?
-- What are the different orders status in 2022?
-- List top 5 states contributing to the sales?
-- Relationship b/w age and gender based on number of orders
-- Which channel is contributing to meximum sales?
-- Highest selling category ?
+-How many total orders were placed, and what was the total sales amount?
+-What is the distribution of orders by status (Delivered, Cancelled, etc.)?
+-Which sales channels (Flipkart, Amazon, Meesho, etc.) performed best.
+-What are the order trends by Age Group vs Gender?
+-Highest selling category etc.
+-Which chennel is contributing to meximum  sales?
+-Which are the top 5 states by sales and number of orders?
  # Process Overview
  # Data collection & Cleaning
  - imported raw order data (CSV/EXCEL formate)
